@@ -3,7 +3,7 @@
 -----
 > Also, check out my alt accounts made for big projects! <br>
 > [Clicliclick game](https://github.com/clicliclick) <br>
-> [MilkApps](https://github.com/milkapps)
+> [MilkApps](https://github.com/milkappsproject)
 
 <!--
 **Milk-Cool/Milk-Cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 # Milk_Cool
 ## Hey! I'm a developer (mostly a web and embedded developer).
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milk-Cool)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milk-Cool&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 -----
 > Also, check out my alt accounts made for big projects! <br>
 > [Clicliclick game](https://github.com/clicliclick) <br>
